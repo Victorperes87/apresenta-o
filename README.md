@@ -1,6 +1,6 @@
 # Apresentação pessoal
 
-'Olá, tudo bem, me chamo Pedro Victor. Nessa projeto você podera conhecer 
+'Olá, tudo bem, meu nome é Pedro Victor. Nessa projeto você podera conhecer 
 um pedacinho de mim.'
 
 ## Tecnologias utilizadas
